@@ -11,7 +11,6 @@ El objetivo principal de este trabajo es analizar cómo diversos hábitos de est
 - [Metodología de Análisis](#metodología-de-análisis)
 - [Resultados y Modelado](#resultados-y-modelado)
 - [Conclusiones Clave](#conclusiones-clave)
-- [Autor](#autor)
 
 ## 📖 Descripción del Proyecto
 El proyecto integra contenidos de probabilidad y estadística descriptiva e inferencial. Se exploran relaciones entre variables cuantitativas y cualitativas para responder preguntas como:
