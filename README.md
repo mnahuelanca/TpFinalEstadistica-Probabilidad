@@ -63,7 +63,7 @@ Puntaje = 35.91 + 9.49 x (Horas de Estudio)
 * **RMSE (Raíz del Error Cuadrático Medio):** 9.53 puntos.
 
 ## 💡 Conclusiones Clave
-1.  **El estudio es el rey:** Las horas de estudio son el predictor más fuerte del éxito académico en este dataset.
+1.  **El estudio es importante:** Las horas de estudio son el predictor más fuerte del éxito académico en este dataset.
 2.  **Mito del trabajo derribado:** Contrario a la creencia popular, tener un trabajo a tiempo parcial **no disminuye** el promedio de notas. De hecho, los valores atípicos más bajos (outliers) se encontraron en estudiantes que **no** trabajan.
 3.  **Redes Sociales y Asistencia:** Aunque influyen, su impacto es secundario y presentan una alta variabilidad.
 4.  **Teorema del Límite Central:** Se demostró gráficamente que, al tomar múltiples muestras aleatorias, la distribución de las medias tiende a la normalidad, validando los supuestos estadísticos.
